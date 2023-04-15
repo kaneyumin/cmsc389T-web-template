@@ -13,3 +13,8 @@ Rose quartz: #B2A3B5
 
 ## CSS
 .img -> where you can adjust image size
+
+
+## Additions
+
+Another project description was provided for a total of four.
