@@ -1,20 +1,14 @@
 # cmsc388T-web-template
 
-## Color Family
-Light yellow: #FAF8D4
+## Links
 
-Almond: #EBDCCB
+github: https://kaneyumin.github.io/cmsc389T-web-template/
 
-Dun: #C3BAAA
-
-Taupe Gray: #91818A
-
-Rose quartz: #B2A3B5
-
-## CSS
-.img -> where you can adjust image size
+terpconnect: https://terpconnect.umd.edu/~khsu12/cmsc389T-web-template/
 
 
 ## Additions
 
-Another project description was provided for a total of four.
+Another project description was provided for a total of four. 
+
+Profile picture was updated to be custom.
