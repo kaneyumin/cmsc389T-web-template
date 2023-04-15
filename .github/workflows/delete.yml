@@ -1,4 +1,4 @@
-name: delete workflow
+name: Clean
 on:
   workflow_dispatch:
 jobs:
