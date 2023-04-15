@@ -7,13 +7,19 @@
 
 FROM node:10-alpine
 
-WORKDIR /home/chrx/programming/cmsc389t/cmsc389T-web-template/
+RUN mkdir -p app && chown -R node:node /app
+
+WORKDIR /app
 
 COPY package*.json ./
+
+USER node
 
 RUN npm install
 
 EXPOSE 8080
+
+COPY . .
 
 CMD ["node","app.js"]
 
